@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/13db63ef277c4ee8b8aba47ef701a637/artifacts
+end_time: 1756938965004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13db63ef277c4ee8b8aba47ef701a637
+run_name: rare-dove-515
+run_uuid: 13db63ef277c4ee8b8aba47ef701a637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756938955439
+status: 4
+tags: []
+user_id: raghemahamud

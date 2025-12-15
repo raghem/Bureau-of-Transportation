@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/c45b283ed4c74344b15ff390f591fc1a/artifacts
+end_time: 1756938486583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c45b283ed4c74344b15ff390f591fc1a
+run_name: receptive-bat-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756938342835
+status: 4
+tags: []
+user_id: raghemahamud

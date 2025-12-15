@@ -1,0 +1,44 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 stages:\
+  - preprocess\
+  - train\
+  - log_results\
+\
+variables:\
+  MLFLOW_TRACKING_URI: "file:///builds/$\{CI_PROJECT_PATH\}/mlruns"  # Local MLflow tracking\
+\
+before_script:\
+  # Install conda if runner doesn\'92t already have it\
+  - apt-get update -y && apt-get install -y wget bzip2\
+  - wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh\
+  - bash miniconda.sh -b -p $CI_PROJECT_DIR/miniconda\
+  - export PATH="$CI_PROJECT_DIR/miniconda/bin:$PATH"\
+  - conda init bash\
+  - source ~/.bashrc\
+  - conda install -y mlflow\
+\
+preprocess:\
+  stage: preprocess\
+  script:\
+    - mlflow run . -e preprocess\
+\
+train:\
+  stage: train\
+  script:\
+    - mlflow run . -e train\
+\
+log_results:\
+  stage: log_results\
+  script:\
+    - mlflow run . -e log_results\
+\
+artifacts:\
+  paths:\
+    - mlruns/        # Save MLflow run data\
+    - artifacts/     # Save your model.pkl and results.json}

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/bc2f235ed4ec41adbcb98887702e0ea4/artifacts
+end_time: 1757005718168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc2f235ed4ec41adbcb98887702e0ea4
+run_name: dazzling-colt-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005685381
+status: 4
+tags: []
+user_id: raghemahamud

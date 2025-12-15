@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/87d4cec6ce0e41a9802d50340fbddfdb/artifacts
+end_time: 1756939808652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87d4cec6ce0e41a9802d50340fbddfdb
+run_name: charming-ram-31
+run_uuid: 87d4cec6ce0e41a9802d50340fbddfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939796935
+status: 3
+tags: []
+user_id: raghemahamud

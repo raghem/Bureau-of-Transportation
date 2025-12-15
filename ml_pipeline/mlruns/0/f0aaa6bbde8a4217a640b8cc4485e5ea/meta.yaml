@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/f0aaa6bbde8a4217a640b8cc4485e5ea/artifacts
+end_time: 1756939431906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0aaa6bbde8a4217a640b8cc4485e5ea
+run_name: serious-crab-939
+run_uuid: f0aaa6bbde8a4217a640b8cc4485e5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939422292
+status: 4
+tags: []
+user_id: raghemahamud

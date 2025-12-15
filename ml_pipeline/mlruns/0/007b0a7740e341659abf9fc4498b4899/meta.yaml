@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/007b0a7740e341659abf9fc4498b4899/artifacts
+end_time: 1757002820895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 007b0a7740e341659abf9fc4498b4899
+run_name: overjoyed-snipe-214
+run_uuid: 007b0a7740e341659abf9fc4498b4899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757002808122
+status: 4
+tags: []
+user_id: raghemahamud

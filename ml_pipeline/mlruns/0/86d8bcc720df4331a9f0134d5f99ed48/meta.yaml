@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/86d8bcc720df4331a9f0134d5f99ed48/artifacts
+end_time: 1756939813100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86d8bcc720df4331a9f0134d5f99ed48
+run_name: amusing-colt-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939792427
+status: 4
+tags: []
+user_id: raghemahamud

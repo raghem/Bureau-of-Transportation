@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/f52a0826ac8f4072aa4c23fe7672bb05/artifacts
+end_time: 1756938446803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f52a0826ac8f4072aa4c23fe7672bb05
+run_name: puzzled-ape-334
+run_uuid: f52a0826ac8f4072aa4c23fe7672bb05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756938432023
+status: 3
+tags: []
+user_id: raghemahamud

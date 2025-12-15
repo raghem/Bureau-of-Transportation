@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/c417a1164e1e4f3b8cd6d9a8b7716218/artifacts
+end_time: 1756939046218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c417a1164e1e4f3b8cd6d9a8b7716218
+run_name: indecisive-fawn-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939019269
+status: 4
+tags: []
+user_id: raghemahamud

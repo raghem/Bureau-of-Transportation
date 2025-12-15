@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/e521d16b6cad471daa9546e9bb59c4f2/artifacts
+end_time: 1756940365161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e521d16b6cad471daa9546e9bb59c4f2
+run_name: thundering-gnu-495
+run_uuid: e521d16b6cad471daa9546e9bb59c4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940353239
+status: 3
+tags: []
+user_id: raghemahamud

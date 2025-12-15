@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/2c3267bea4ec424186e11681cb39a7fe/artifacts
+end_time: 1757003048028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c3267bea4ec424186e11681cb39a7fe
+run_name: intelligent-roo-359
+run_uuid: 2c3267bea4ec424186e11681cb39a7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003036134
+status: 3
+tags: []
+user_id: raghemahamud

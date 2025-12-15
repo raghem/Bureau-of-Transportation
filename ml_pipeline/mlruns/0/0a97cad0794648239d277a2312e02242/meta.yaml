@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/0a97cad0794648239d277a2312e02242/artifacts
+end_time: 1756939626419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a97cad0794648239d277a2312e02242
+run_name: rare-mink-167
+run_uuid: 0a97cad0794648239d277a2312e02242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939614928
+status: 3
+tags: []
+user_id: raghemahamud

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/ce03cc275c844e58bff5fdaddd59ccf8/artifacts
+end_time: 1757004045227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce03cc275c844e58bff5fdaddd59ccf8
+run_name: big-shad-317
+run_uuid: ce03cc275c844e58bff5fdaddd59ccf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757004034290
+status: 3
+tags: []
+user_id: raghemahamud

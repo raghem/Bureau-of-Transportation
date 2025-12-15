@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/030ee8cd18594c68a521725bfe085223/artifacts
+end_time: 1757006340963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 030ee8cd18594c68a521725bfe085223
+run_name: serious-snake-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006307423
+status: 4
+tags: []
+user_id: raghemahamud

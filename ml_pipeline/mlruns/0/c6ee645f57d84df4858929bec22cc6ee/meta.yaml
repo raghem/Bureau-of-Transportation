@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/c6ee645f57d84df4858929bec22cc6ee/artifacts
+end_time: 1756941206477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6ee645f57d84df4858929bec22cc6ee
+run_name: valuable-hen-672
+run_uuid: c6ee645f57d84df4858929bec22cc6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756941194802
+status: 3
+tags: []
+user_id: raghemahamud

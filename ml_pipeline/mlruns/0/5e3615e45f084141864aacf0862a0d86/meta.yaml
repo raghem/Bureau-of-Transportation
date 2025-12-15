@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/5e3615e45f084141864aacf0862a0d86/artifacts
+end_time: 1757004232782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e3615e45f084141864aacf0862a0d86
+run_name: invincible-midge-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757004221468
+status: 4
+tags: []
+user_id: raghemahamud

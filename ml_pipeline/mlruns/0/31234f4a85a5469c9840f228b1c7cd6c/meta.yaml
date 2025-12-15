@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/31234f4a85a5469c9840f228b1c7cd6c/artifacts
+end_time: 1757005718062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31234f4a85a5469c9840f228b1c7cd6c
+run_name: colorful-dove-1000
+run_uuid: 31234f4a85a5469c9840f228b1c7cd6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005714365
+status: 4
+tags: []
+user_id: raghemahamud

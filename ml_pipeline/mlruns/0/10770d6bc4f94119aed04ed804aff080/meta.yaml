@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/10770d6bc4f94119aed04ed804aff080/artifacts
+end_time: 1756939046098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10770d6bc4f94119aed04ed804aff080
+run_name: adorable-loon-961
+run_uuid: 10770d6bc4f94119aed04ed804aff080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939036526
+status: 4
+tags: []
+user_id: raghemahamud

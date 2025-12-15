@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/5c7aa5411e0a4cdb8b2c874f74b088e1/artifacts
+end_time: 1757004050453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c7aa5411e0a4cdb8b2c874f74b088e1
+run_name: gaudy-fox-990
+run_uuid: 5c7aa5411e0a4cdb8b2c874f74b088e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757004046620
+status: 4
+tags: []
+user_id: raghemahamud

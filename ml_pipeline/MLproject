@@ -1,0 +1,19 @@
+name: regression_pipeline
+
+conda_env: pipeline_env.yaml
+
+entry_points:
+  preprocess:
+    command: "python D602Task2.py"
+
+  train:
+    command: "python poly_regressor_Python_1.0.0.py"
+
+  log_results:
+    command: "python log_results.py"
+
+  main:
+    command: >
+      mlflow run . -e preprocess --storage-dir ./artifacts &&
+      mlflow run . -e train --storage-dir ./artifacts &&
+      mlflow run . -e log_results --storage-dir ./artifacts

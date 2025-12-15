@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/f4e68da15173469a87f068205eebabff/artifacts
+end_time: 1756940376466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4e68da15173469a87f068205eebabff
+run_name: legendary-carp-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940348773
+status: 4
+tags: []
+user_id: raghemahamud

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/eef6f0bc99db4bdb9ecef803bb3a2aa0/artifacts
+end_time: 1757003293754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eef6f0bc99db4bdb9ecef803bb3a2aa0
+run_name: receptive-cod-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003259151
+status: 4
+tags: []
+user_id: raghemahamud

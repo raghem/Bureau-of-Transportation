@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/5e37031bc38a4c4899f9df8a9e8bba12/artifacts
+end_time: 1757004960541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e37031bc38a4c4899f9df8a9e8bba12
+run_name: capable-cat-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757004954282
+status: 4
+tags: []
+user_id: raghemahamud

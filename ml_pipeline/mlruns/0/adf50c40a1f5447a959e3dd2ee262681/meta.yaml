@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/adf50c40a1f5447a959e3dd2ee262681/artifacts
+end_time: 1757003559835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf50c40a1f5447a959e3dd2ee262681
+run_name: unruly-mare-236
+run_uuid: adf50c40a1f5447a959e3dd2ee262681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003548258
+status: 3
+tags: []
+user_id: raghemahamud

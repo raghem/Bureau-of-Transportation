@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/2a0198e515be4f7a8606056a06283454/artifacts
+end_time: 1756939432019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0198e515be4f7a8606056a06283454
+run_name: burly-mule-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939404671
+status: 4
+tags: []
+user_id: raghemahamud

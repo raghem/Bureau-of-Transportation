@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/e3953bb9b1ba4ba5b2e0592becff56c4/artifacts
+end_time: 1757003061936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3953bb9b1ba4ba5b2e0592becff56c4
+run_name: wistful-bass-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003031686
+status: 4
+tags: []
+user_id: raghemahamud

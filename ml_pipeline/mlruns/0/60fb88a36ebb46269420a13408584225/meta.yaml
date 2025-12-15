@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/60fb88a36ebb46269420a13408584225/artifacts
+end_time: 1756940954299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60fb88a36ebb46269420a13408584225
+run_name: skillful-auk-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940870538
+status: 4
+tags: []
+user_id: raghemahamud

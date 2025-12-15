@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/3933d9ba08f440c68d1989cc52f52906/artifacts
+end_time: 1756937335521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3933d9ba08f440c68d1989cc52f52906
+run_name: smiling-ram-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756937328171
+status: 4
+tags: []
+user_id: raghemahamud

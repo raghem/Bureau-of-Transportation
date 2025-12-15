@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/e0c8fb18d26542e5b9d8ee4a44828c22/artifacts
+end_time: 1757006145957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0c8fb18d26542e5b9d8ee4a44828c22
+run_name: classy-shark-338
+run_uuid: e0c8fb18d26542e5b9d8ee4a44828c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006135211
+status: 3
+tags: []
+user_id: raghemahamud

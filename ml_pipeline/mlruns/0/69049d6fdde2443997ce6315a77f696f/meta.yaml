@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/69049d6fdde2443997ce6315a77f696f/artifacts
+end_time: 1756936259314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69049d6fdde2443997ce6315a77f696f
+run_name: useful-sloth-354
+run_uuid: 69049d6fdde2443997ce6315a77f696f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756936256482
+status: 4
+tags: []
+user_id: raghemahamud

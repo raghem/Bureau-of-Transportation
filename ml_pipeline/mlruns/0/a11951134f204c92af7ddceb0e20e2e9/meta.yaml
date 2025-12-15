@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/a11951134f204c92af7ddceb0e20e2e9/artifacts
+end_time: 1757006340846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a11951134f204c92af7ddceb0e20e2e9
+run_name: luminous-steed-216
+run_uuid: a11951134f204c92af7ddceb0e20e2e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006337180
+status: 4
+tags: []
+user_id: raghemahamud

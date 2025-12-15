@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/d6702c01fd6347d3975fbe888c8dd635/artifacts
+end_time: 1757005500602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6702c01fd6347d3975fbe888c8dd635
+run_name: dapper-gnu-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005489352
+status: 4
+tags: []
+user_id: raghemahamud

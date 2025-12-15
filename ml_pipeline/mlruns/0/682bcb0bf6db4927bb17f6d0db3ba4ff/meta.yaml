@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/682bcb0bf6db4927bb17f6d0db3ba4ff/artifacts
+end_time: 1757006565730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 682bcb0bf6db4927bb17f6d0db3ba4ff
+run_name: dashing-stag-604
+run_uuid: 682bcb0bf6db4927bb17f6d0db3ba4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006562064
+status: 3
+tags: []
+user_id: raghemahamud

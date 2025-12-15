@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/406aa17a012643d98d3c5bc5d34c9443/artifacts
+end_time: 1757002821014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 406aa17a012643d98d3c5bc5d34c9443
+run_name: youthful-perch-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757002773315
+status: 4
+tags: []
+user_id: raghemahamud

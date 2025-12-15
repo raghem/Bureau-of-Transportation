@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/9b54ce7a2d7c4222b89e04dc42f0694c/artifacts
+end_time: 1756940241903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b54ce7a2d7c4222b89e04dc42f0694c
+run_name: learned-fowl-602
+run_uuid: 9b54ce7a2d7c4222b89e04dc42f0694c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940239208
+status: 4
+tags: []
+user_id: raghemahamud

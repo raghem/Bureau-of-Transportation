@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/0c02096fe3cc4fe2b5d5a3c8d554f09b/artifacts
+end_time: 1756940636890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c02096fe3cc4fe2b5d5a3c8d554f09b
+run_name: luxuriant-conch-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940609618
+status: 4
+tags: []
+user_id: raghemahamud

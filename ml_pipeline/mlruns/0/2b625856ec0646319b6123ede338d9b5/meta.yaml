@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/2b625856ec0646319b6123ede338d9b5/artifacts
+end_time: 1757003954636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b625856ec0646319b6123ede338d9b5
+run_name: wistful-squirrel-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003943362
+status: 3
+tags: []
+user_id: raghemahamud

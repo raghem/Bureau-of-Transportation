@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/951e907b64c646b09c4b864808de507f/artifacts
+end_time: 1756936564633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 951e907b64c646b09c4b864808de507f
+run_name: sneaky-lark-813
+run_uuid: 951e907b64c646b09c4b864808de507f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756936561943
+status: 4
+tags: []
+user_id: raghemahamud

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/38e54bc0aa1a4e2fa64ae5fafda1a11b/artifacts
+end_time: 1757003577206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e54bc0aa1a4e2fa64ae5fafda1a11b
+run_name: loud-dolphin-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003543598
+status: 4
+tags: []
+user_id: raghemahamud

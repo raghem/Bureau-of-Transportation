@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/536aea316eac4cbe963531c3b044c119/artifacts
+end_time: 1757003289474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 536aea316eac4cbe963531c3b044c119
+run_name: secretive-sloth-494
+run_uuid: 536aea316eac4cbe963531c3b044c119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003277095
+status: 3
+tags: []
+user_id: raghemahamud

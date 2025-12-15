@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/b605b5a9db3940048ea61477190dd0d4/artifacts
+end_time: 1757005673149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b605b5a9db3940048ea61477190dd0d4
+run_name: inquisitive-kite-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005661868
+status: 3
+tags: []
+user_id: raghemahamud

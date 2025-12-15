@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/dbb4e507ed254342bad614f3a458857c/artifacts
+end_time: 1757006059609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb4e507ed254342bad614f3a458857c
+run_name: traveling-elk-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006048252
+status: 3
+tags: []
+user_id: raghemahamud

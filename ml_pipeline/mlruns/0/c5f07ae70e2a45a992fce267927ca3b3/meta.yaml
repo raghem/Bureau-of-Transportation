@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/c5f07ae70e2a45a992fce267927ca3b3/artifacts
+end_time: 1757005713042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5f07ae70e2a45a992fce267927ca3b3
+run_name: enchanting-lark-652
+run_uuid: c5f07ae70e2a45a992fce267927ca3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005702521
+status: 3
+tags: []
+user_id: raghemahamud

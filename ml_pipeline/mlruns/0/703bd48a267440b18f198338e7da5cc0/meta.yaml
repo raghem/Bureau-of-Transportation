@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/703bd48a267440b18f198338e7da5cc0/artifacts
+end_time: 1756940242013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703bd48a267440b18f198338e7da5cc0
+run_name: sneaky-hen-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756940221708
+status: 4
+tags: []
+user_id: raghemahamud

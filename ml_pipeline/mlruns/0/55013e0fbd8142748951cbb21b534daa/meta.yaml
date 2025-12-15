@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/55013e0fbd8142748951cbb21b534daa/artifacts
+end_time: 1756936564742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55013e0fbd8142748951cbb21b534daa
+run_name: grandiose-duck-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756936557538
+status: 4
+tags: []
+user_id: raghemahamud

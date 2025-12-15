@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/aa7a471a031d4580914ca1ef07dc4c4f/artifacts
+end_time: 1756937551347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa7a471a031d4580914ca1ef07dc4c4f
+run_name: traveling-flea-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756937539677
+status: 4
+tags: []
+user_id: raghemahamud

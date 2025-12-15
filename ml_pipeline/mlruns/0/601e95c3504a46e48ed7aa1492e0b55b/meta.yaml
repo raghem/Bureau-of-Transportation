@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/601e95c3504a46e48ed7aa1492e0b55b/artifacts
+end_time: 1757006565837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 601e95c3504a46e48ed7aa1492e0b55b
+run_name: blushing-cow-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006532346
+status: 3
+tags: []
+user_id: raghemahamud

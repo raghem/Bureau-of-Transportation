@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/40c2094517e84cffab15a1c6a10f78c5/artifacts
+end_time: 1757002806629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c2094517e84cffab15a1c6a10f78c5
+run_name: secretive-slug-398
+run_uuid: 40c2094517e84cffab15a1c6a10f78c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757002794437
+status: 3
+tags: []
+user_id: raghemahamud

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/7e3000d0945b420d8040da97ee6f0488/artifacts
+end_time: 1756937335385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e3000d0945b420d8040da97ee6f0488
+run_name: lyrical-bird-199
+run_uuid: 7e3000d0945b420d8040da97ee6f0488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756937332685
+status: 4
+tags: []
+user_id: raghemahamud

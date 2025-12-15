@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/fdab94dd8fe349878d9f4d14eb36c0db/artifacts
+end_time: 1757004004272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdab94dd8fe349878d9f4d14eb36c0db
+run_name: upbeat-pug-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757003999997
+status: 4
+tags: []
+user_id: raghemahamud

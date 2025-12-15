@@ -1,0 +1,18 @@
+12:22:35 INFO Flight Departure Delays Polynomial Regression Model Log
+12:22:37 INFO Month and year of data: 1 2025
+12:22:39 INFO Airport one-hot encoding successful
+12:22:39 INFO n=1 alpha=0.0 , MSE = 98.72
+12:22:39 INFO n=1 alpha=0.2 , MSE = 95.004
+12:22:39 INFO Training Data Final MSE = 95.0
+12:22:39 INFO Model training loop completed with 2 iterations
+12:22:39 INFO Export of airport one-hot encoding successful
+12:22:39 INFO Wrangling of test data successful
+12:22:39 INFO Export of airport one-hot encoding successful
+12:22:39 INFO Wrangling of test data successful
+12:22:39 INFO Test Data MSE = 73.25
+12:22:39 INFO Predictions using test data successful
+12:22:39 INFO Test Data average delay = 8.56 min
+12:22:39 INFO Final model export successful
+12:22:39 DEBUG Loaded backend macosx version unknown.
+12:22:40 INFO Model performance plot export successful
+12:22:40 INFO Model performance plot export successful

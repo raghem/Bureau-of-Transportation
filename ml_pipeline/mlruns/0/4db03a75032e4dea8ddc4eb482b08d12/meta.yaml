@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/4db03a75032e4dea8ddc4eb482b08d12/artifacts
+end_time: 1756939035075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db03a75032e4dea8ddc4eb482b08d12
+run_name: wise-crane-605
+run_uuid: 4db03a75032e4dea8ddc4eb482b08d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939023637
+status: 3
+tags: []
+user_id: raghemahamud

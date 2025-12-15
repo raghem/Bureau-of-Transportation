@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/1ed0f3d88e5640aa8f738c921a8a3e16/artifacts
+end_time: 1756941217733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ed0f3d88e5640aa8f738c921a8a3e16
+run_name: bouncy-horse-563
+run_uuid: 1ed0f3d88e5640aa8f738c921a8a3e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756941207951
+status: 4
+tags: []
+user_id: raghemahamud

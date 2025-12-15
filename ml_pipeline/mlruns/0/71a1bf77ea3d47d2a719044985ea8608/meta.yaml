@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/71a1bf77ea3d47d2a719044985ea8608/artifacts
+end_time: 1756939970742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71a1bf77ea3d47d2a719044985ea8608
+run_name: chill-carp-889
+run_uuid: 71a1bf77ea3d47d2a719044985ea8608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939968064
+status: 4
+tags: []
+user_id: raghemahamud

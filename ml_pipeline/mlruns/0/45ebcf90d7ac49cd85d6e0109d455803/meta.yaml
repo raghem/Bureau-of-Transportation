@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/45ebcf90d7ac49cd85d6e0109d455803/artifacts
+end_time: 1756936259425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45ebcf90d7ac49cd85d6e0109d455803
+run_name: charming-snipe-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756936133545
+status: 4
+tags: []
+user_id: raghemahamud

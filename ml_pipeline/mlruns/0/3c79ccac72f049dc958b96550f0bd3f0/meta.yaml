@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/3c79ccac72f049dc958b96550f0bd3f0/artifacts
+end_time: 1757005596906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c79ccac72f049dc958b96550f0bd3f0
+run_name: sedate-cow-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757005585568
+status: 4
+tags: []
+user_id: raghemahamud

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/faba587970a74926adf90faddcf1336d/artifacts
+end_time: 1757006323585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faba587970a74926adf90faddcf1336d
+run_name: skittish-koi-209
+run_uuid: faba587970a74926adf90faddcf1336d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757006312073
+status: 3
+tags: []
+user_id: raghemahamud

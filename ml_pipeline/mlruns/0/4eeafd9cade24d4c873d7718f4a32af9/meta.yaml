@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/4eeafd9cade24d4c873d7718f4a32af9/artifacts
+end_time: 1756939970849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eeafd9cade24d4c873d7718f4a32af9
+run_name: powerful-squid-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756939950747
+status: 4
+tags: []
+user_id: raghemahamud

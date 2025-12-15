@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raghemahamud/ml_pipeline/mlruns/0/5fef0dddbac54fc7a42dff55cd7e4d21/artifacts
+end_time: 1756937551236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fef0dddbac54fc7a42dff55cd7e4d21
+run_name: redolent-auk-614
+run_uuid: 5fef0dddbac54fc7a42dff55cd7e4d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756937544241
+status: 4
+tags: []
+user_id: raghemahamud
